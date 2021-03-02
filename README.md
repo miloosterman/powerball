@@ -1,2 +1,4 @@
 # powerball
-Java program that will simulate a Powerball lottery.
+Overview: Powerball is a game where players buy tickets that consist of five unique lottery numbers that range between 1 - 69 and one number between 1-26, called the Powerball. The lottery numbers must be unique meaning they cannot be repeated, whereas the Powerball may be the same as one of the five lottery numbers. A player’s set of chosen numbers are then compared to the winning set which have been randomly chosen.
+Assignment: Write a well-documented Java program that will simulate a Powerball lottery. Your program will automatically generate a winning Powerball ticket at the beginning of each game. A player will start with $1,000.00 and can purchase any number of $2 Powerball tickets until they decide to quit, or they run out of money. You must compare each lottery number on the player’s ticket to every lottery number on the winning ticket – sequence is not important. Lastly, you will compare the winning Powerball number to the Powerball number on the player’s ticket.
+
